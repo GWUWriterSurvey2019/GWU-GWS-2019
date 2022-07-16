@@ -1,5 +1,5 @@
 # GWU-GWS-2019
-This repo hosts data and reports from Game Workers Unite 2019 Game Writers Survey!
+This repo hosts data and reports from the Game Workers Unite 2019 Game Writers Survey!
 
 # What's in this repo?
 
