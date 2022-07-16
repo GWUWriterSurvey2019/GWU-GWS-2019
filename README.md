@@ -72,7 +72,7 @@ Yes. Use this however you want to build worker power!
 
 ## How come there are more US responses than other regions in the world?
 
-At the time, GWU had its largest membership in the US, and therefore the survey had the most resources and support in the US. Regions outside of the US also tend to have much smaller communities for game writers. For instance, GWU Germany estimated their responses was likely representing over 75% of the game writer community in their region.
+At the time, GWU had its largest membership in the US, and therefore the survey had the most resources and support in the US. Regions outside of the US also tend to have much smaller communities for game writers. 
 
 ## What are the deleted responses from in the US data?
 
@@ -82,7 +82,7 @@ A small group of internet trolls entered false entries one day to mess with the 
 
 - [Salaries of game workers on an H1-B visa](https://www.loveforgames.com/salary/)
 - [Crowdsourced US Game Dev Salary Survey](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit#gid=1190884846)
-- [Crowdsourced UK Game Dev Salary Survey](https://docs.google.com/spreadsheets/d/1uZF-gfBDHNJE8ebDQUFy49pwrAnCMx8uf6VzNITaOKI/edit#gid=846726335) by @tronbevan(https://twitter.com/tronbevan)
+- [Crowdsourced UK Game Dev Salary Survey](https://docs.google.com/spreadsheets/d/1uZF-gfBDHNJE8ebDQUFy49pwrAnCMx8uf6VzNITaOKI/edit#gid=846726335) by [@tronbevan](https://twitter.com/tronbevan)
 - [IGDA backed survey](http://www.gameqol.org/igda-qol-survey) 
 - https://twitter.com/hashtag/GameDevPaidMe
 
@@ -92,7 +92,7 @@ https://twitter.com/GWSsinclair - A public face for the organizers behind the su
 ## I want to form a union! How do I do that?
 
 There are lots of groups helping build unions for tech and game employees, freelancers, and building more co-ops too. Here are some.
-https://freelancesolidarity.org/
-https://www.gameworkersunite.org/worker-co-op-resource
-https://www.cmrjb.org/contact (Cards Against Humanity Union)
-https://www.code-cwa.org/organize
+- https://freelancesolidarity.org/
+- https://www.gameworkersunite.org/worker-co-op-resource
+- https://www.cmrjb.org/contact (Cards Against Humanity Union)
+- https://www.code-cwa.org/organize
