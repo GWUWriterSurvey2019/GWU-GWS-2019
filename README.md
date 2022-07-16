@@ -94,5 +94,5 @@ https://twitter.com/GWSsinclair - A public face for the organizers behind the su
 There are lots of groups helping build unions for tech and game employees, freelancers, and building more co-ops too. Here are some.
 - https://freelancesolidarity.org/
 - https://www.gameworkersunite.org/worker-co-op-resource
-- https://www.cmrjb.org/contact (Cards Against Humanity Union)
+- https://www.cmrjb.org/contact - union working with the Cards Against Humanity Union
 - https://www.code-cwa.org/organize
